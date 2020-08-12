@@ -1,1 +1,2 @@
-test file for git demo
+test file for git demo repository  
+ver 2
