@@ -2,3 +2,4 @@ test file for git demo repository
 ver 2
 add and israel
 add string from my mac m1 pro
+add another string from my mac bro
